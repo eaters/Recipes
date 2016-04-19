@@ -1,4 +1,4 @@
-# Herman's Whiskey Sours
+## Herman's Whiskey Sours
 *From Rob’s Grandpa Herman*
 
 The following makes 3 drinks:

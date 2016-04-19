@@ -1,8 +1,7 @@
 ## Papa Paul's Biscuits
-* From Paul's Kitchen 
+*From Paul's Kitchen* 
 
 ![Biscuits](/Photos/Biscuits.JPG)
-
 
 
 - 2 cups of AP Flour + more as needed 
@@ -23,7 +22,6 @@ Cut up the butter into little cubes 1⁄4” or so. Cut the butter into the dry 
 * From Paul's Kitchen 
 
 ![Gravy](/Photos/Gravy.JPG)
-
 
 
 - 1 LBS SAUSAGE. Good sausage. The kind you would eat on its own. 

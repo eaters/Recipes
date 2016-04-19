@@ -1,5 +1,5 @@
 ## Papa Paul's Biscuits
-* From Paul's Kitchen *
+* From Paul's Kitchen 
 
 ![Biscuits](/Photos/Biscuits.JPG)
 
@@ -20,7 +20,7 @@ Cut up the butter into little cubes 1⁄4” or so. Cut the butter into the dry 
 
 
 ## Papa Paul's Sausage Gravy
-* From Paul's Kitchen *
+* From Paul's Kitchen 
 
 ![Gravy](/Photos/Gravy.JPG)
 
